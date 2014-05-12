@@ -1,2 +1,3 @@
 ZeroThoughts
 ============
+Localstorage experiment project
